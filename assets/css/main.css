@@ -81,7 +81,10 @@ a:after {
     padding: 0;
 }
 
-
+#minecraft{
+	background: url(http://i.imgur.com/wIuq8xz.png);
+	color: white;
+}
 .navbar {
 	font-weight: 800;
 	font-size: 14px;
